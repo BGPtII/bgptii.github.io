@@ -1,1 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #2E86AB;
+    background-color: #F7F7FF;
+    line-height: 1.6;
+}
 
+p {
+    margin-bottom: 20px;
+}
+
+.section-heading {
+    color: #FF7F11;
+    font-size: 1.2em;
+    font-weight: bold;
+}
